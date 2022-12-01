@@ -3,6 +3,8 @@ public class gitPull {
         System.out.println("Hi java");
         
         System.out.println("GitHup UcuncuGun");
+
+        System.out.println("confict olusturma");
     }
 }
 
